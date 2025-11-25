@@ -1,4 +1,4 @@
-Markdown# 🧮 Calculadora Científica (Python/Tkinter)
+ Calculadora Científica (Python/Tkinter)
 
 Uma aplicação gráfica desenvolvida em Python e Tkinter que implementa uma calculadora com operações básicas e funções científicas. O projeto é um exercício de desenvolvimento de GUI em ambientes Linux (Lubuntu/Ubuntu), focando na manipulação de **widgets**, tratamento de **eventos** e integração com a biblioteca matemática (`math`).
 
